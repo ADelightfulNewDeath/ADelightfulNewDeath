@@ -61,7 +61,7 @@ $\color{#fec07c}\textsf{I'm}$
 $\color{#c94a4d}\textsf{19!}$ 
 $\color{#fec07c}\textsf{I'm mostly}$
 $\color{#fec07c}\textsf{in Safe Vietnamese.}$
-$\color{#fec07c}\textsf{I'm a talkative person}$  
+$\color{#fec07c}\textsf{HIGHKEY talkative 👀}$  
 $\color{#fec07c}\textsf{and very friendly (˶˃ ᵕ ˂˶)}$
 $\color{#fec07c}\textsf{Feel free}$
 $\color{#fec07c}\textsf{to visit my}$ <a href="https://imperialenigma.atabook.org">Atabook</a>

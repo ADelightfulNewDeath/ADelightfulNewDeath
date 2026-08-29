@@ -45,7 +45,7 @@
 
 <br><br>
 
-<img align="right" width="40%" src="https://github.com/ADelightfulNewDeath/Project/blob/main/Khong_Co_Tieu_e224_20260829221004.png?raw=true"/>
+<img align="right" width="35%" src="https://github.com/ADelightfulNewDeath/Project/blob/main/Khong_Co_Tieu_e224_20260829221004.png?raw=true"/>
 
 <div align="left">
 

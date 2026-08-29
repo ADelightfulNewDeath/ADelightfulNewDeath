@@ -83,6 +83,14 @@ $\color{#c94a4d}\textsf{!!}$
   <img src="https://github.com/ADelightfulNewDeath/Project/blob/main/Kho%CC%82ng%20Co%CC%81%20Tie%CC%82u%20%C4%90e%CC%82%CC%80228_20260830010924.png?raw=true"/>
 </div>
 
+<br><br>
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31zstxjlj7bcd47jmya3xyhnxiv4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=false&bar_color=fdc700">
+  </a>
+</p>
+
 </td>
 
 <td width="280" align="center">

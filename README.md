@@ -32,12 +32,52 @@
 
 <div align="center">
 <img width="80%" src="https://i.pinimg.com/originals/3b/3b/bb/3b3bbb7ef16849b52b36daf8f303f766.gif"/>
+</div>
+
+<br><br>
+
+<img align="center" src="https://github.com/ADelightfulNewDeath/Project/blob/main/Kho%CC%82ng%20Co%CC%81%20Tie%CC%82u%20%C4%90e%CC%82%CC%80229_20260830014707.png?raw=true"/>
+
+<br><br>
+
+<img align="right" width="50%" src="https://github.com/ADelightfulNewDeath/Project/blob/main/IMG_1160.PNG?raw=true"/>
+
+<div align="left">
+
+<details>
+
+<summary>
+$\color{#fec07c}\textsf{click}$ $\color{#c94a4d}\textsf{this}$ $\color{#fec07c}\textsf{to}$ $\color{#fec07c}\textsf{read}$ $\color{#fec07c}\textsf{about}$ $\color{#c94a4d}\textsf{me}$ $\color{#fec07c}\textsf{!!}$
+</summary>
+
+<br>
+$\color{#fec07c}\textsf{Hi there! Call me}$ 
+$\color{#c94a4d}\textsf{Kazu}$ 
+$\color{#fec07c}\textsf{or}$ 
+$\color{#c94a4d}\textsf{Kaz}$ 
+$\color{#fec07c}\textsf{for short}$ 
+$\color{#fec07c}\textsf{and I go by Any/All <3 }$ 
+$\color{#fec07c}\textsf{I'm}$ 
+$\color{#c94a4d}\textsf{19!}$ 
+$\color{#fec07c}\textsf{I'm mostly}$
+$\color{#fec07c}\textsf{in Safe Vietnamese.}$
+$\color{#fec07c}\textsf{I'm a talkative person}$  
+$\color{#fec07c}\textsf{and very friendly (˶˃ ᵕ ˂˶)}$
+$\color{#fec07c}\textsf{Feel free}$
+$\color{#fec07c}\textsf{to visit my}$ <a href="https://imperialenigma.atabook.org">Atabook</a>
+$\color{#fec07c}\textsf{if you have any}$ 
+$\color{#c94a4d}\textsf{question/suggestion}$ 
+$\color{#c94a4d}\textsf{!!}$
+</details>
+
+</div>
 
 <br><br>
 
 <div align="center">
   <img src="https://github.com/ADelightfulNewDeath/Project/blob/main/Kho%CC%82ng%20Co%CC%81%20Tie%CC%82u%20%C4%90e%CC%82%CC%80228_20260830010924.png?raw=true"/>
 </div>
+
 </td>
 
 <td width="280" align="center">

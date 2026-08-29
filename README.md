@@ -29,15 +29,15 @@
 
 <br>
 
-<a href="https://imperialenigma.atabook.org/"><img align="center" src="https://github.com/ADelightfulNewDeath/ADelightfulNewDeath/blob/main/blinkiesCafe-V4.gif?raw=true" alt="ata" width="30%"/></a> <a href="https://rentry.co/donotinteractbykaz"><img align="center" src="https://github.com/ADelightfulNewDeath/ADelightfulNewDeath/blob/main/blinkiesCafe-Kn.gif?raw=true"/></a>
-
-<br>
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Smooch+Sans&size=23&pause=1000&color=F7EE23&center=true&width=435&lines=Wherever+life+plants+you%2C+bloom+with+grace.+%F0%9F%8C%BB" alt="Typing SVG" /></a>
 
 <div align="center">
 <img width="80%" src="https://i.pinimg.com/originals/3b/3b/bb/3b3bbb7ef16849b52b36daf8f303f766.gif"/>
 </div>
+
+<br>
+
+<a href="https://imperialenigma.atabook.org/"><img align="center" src="https://github.com/ADelightfulNewDeath/ADelightfulNewDeath/blob/main/blinkiesCafe-V4.gif?raw=true" alt="ata" width="30%"/></a> <a href="https://rentry.co/donotinteractbykaz"><img align="center" src="https://github.com/ADelightfulNewDeath/ADelightfulNewDeath/blob/main/blinkiesCafe-Kn.gif?raw=true"/></a>
 
 <br><br>
 

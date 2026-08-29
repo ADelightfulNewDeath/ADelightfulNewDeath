@@ -40,7 +40,7 @@
 
 <br><br>
 
-<img align="right" width="50%" src="https://github.com/ADelightfulNewDeath/Project/blob/main/IMG_1160.PNG?raw=true"/>
+<img align="right" width="40%" src="https://github.com/ADelightfulNewDeath/Project/blob/main/Khong_Co_Tieu_e224_20260829221004.png?raw=true"/>
 
 <div align="left">
 
@@ -72,7 +72,7 @@ $\color{#c94a4d}\textsf{!!}$
 
 </div>
 
-<br><br>
+<br><br><br>
 
 <div align="center">
   <img src="https://github.com/ADelightfulNewDeath/Project/blob/main/Kho%CC%82ng%20Co%CC%81%20Tie%CC%82u%20%C4%90e%CC%82%CC%80228_20260830010924.png?raw=true"/>

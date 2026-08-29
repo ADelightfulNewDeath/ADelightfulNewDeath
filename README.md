@@ -22,10 +22,16 @@
 
 <br><br>
 
-<p align="center">
-⏔⏔⏔⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⏔⏔⏔
-</p>
+<div align="center">
+<img src="https://github.com/ADelightfulNewDeath/Project/blob/main/Kho%CC%82ng%20Co%CC%81%20Tie%CC%82u%20%C4%90e%CC%82%CC%80227_20260830010849.png?raw=true"/>
+</div>
 
+<br><br>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Smooch+Sans&size=23&pause=1000&color=F7EE23&center=true&width=435&lines=Wherever+life+plants+you%2C+bloom+with+grace.+%F0%9F%8C%BB" alt="Typing SVG" /></a>
+
+<div align="center">
+<img src="https://i.pinimg.com/originals/bf/19/d6/bf19d6f68c2515e931806cd06e517aa5.gif" width="250"/>
 
 </td>
 

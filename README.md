@@ -6,7 +6,7 @@
 
 <td width="280" align="center">
 
-<img src="https://github.com/ADelightfulNewDeath/Project/blob/main/Khong_Co_Tieu_e224_20260829231623.png?raw=true" width="250"/>
+<img src="https://github.com/ADelightfulNewDeath/Project/blob/main/Khong_Co_Tieu_e224_20260829225258.png?raw=true" width="250"/>
 
 </td>
 
@@ -16,13 +16,11 @@
 
 <br>
 
-
-
 </td>
 
 <td width="280" align="center">
 
-<img src="https://static.wikitide.net/nullscapewiki/5/53/Kol%C3%B3na.png" width="250"/>
+<img src="https://github.com/ADelightfulNewDeath/Project/blob/main/Khong_Co_Tieu_e224_20260829231623.png?raw=true" width="250"/>
 
 </td>
 

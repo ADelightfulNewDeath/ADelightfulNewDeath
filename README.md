@@ -22,9 +22,14 @@
 
 <br><br>
 
+
 <div align="center">
 <img src="https://github.com/ADelightfulNewDeath/Project/blob/main/Kho%CC%82ng%20Co%CC%81%20Tie%CC%82u%20%C4%90e%CC%82%CC%80227_20260830010849.png?raw=true"/>
 </div>
+
+<br>
+
+<a href="https://imperialenigma.atabook.org/"><img align="center" src="https://github.com/ADelightfulNewDeath/ADelightfulNewDeath/blob/main/blinkiesCafe-V4.gif?raw=true" alt="ata" width="30%"/>
 
 <br>
 
@@ -46,7 +51,7 @@
 
 <details>
 
-<summary>
+<summary> <img src="https://github.com/ADelightfulNewDeath/ADelightfulNewDeath/blob/main/ebi789.gif?raw=true"/>
 $\color{#fec07c}\textsf{click}$ $\color{#c94a4d}\textsf{this}$ $\color{#fec07c}\textsf{to}$ $\color{#fec07c}\textsf{read}$ $\color{#fec07c}\textsf{about}$ $\color{#c94a4d}\textsf{me}$ $\color{#fec07c}\textsf{!!}$
 </summary>
 

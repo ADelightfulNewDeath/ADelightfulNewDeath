@@ -37,7 +37,7 @@
 
 <br>
 
-<a href="https://imperialenigma.atabook.org/"><img align="center" src="https://github.com/ADelightfulNewDeath/ADelightfulNewDeath/blob/main/blinkiesCafe-V4.gif?raw=true" alt="ata" width="30%"/></a> <a href="https://rentry.co/donotinteractbykaz"><img align="center" src="https://github.com/ADelightfulNewDeath/ADelightfulNewDeath/blob/main/blinkiesCafe-Kn.gif?raw=true"/></a>
+<a href="https://imperialenigma.atabook.org/"><img align="center" src="https://github.com/ADelightfulNewDeath/ADelightfulNewDeath/blob/main/blinkiesCafe-V4.gif?raw=true" alt="ata" width="40%"/></a> <a href="https://rentry.co/donotinteractbykaz"><img align="center" src="https://github.com/ADelightfulNewDeath/ADelightfulNewDeath/blob/main/blinkiesCafe-Kn.gif?raw=true" alt="dnis" width="40%"/></a>
 
 <br><br>
 

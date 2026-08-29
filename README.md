@@ -51,7 +51,7 @@
 
 <details>
 
-<summary> <img src="https://github.com/ADelightfulNewDeath/ADelightfulNewDeath/blob/main/ebi789.gif?raw=true"/>
+<summary>
 $\color{#fec07c}\textsf{click}$ $\color{#c94a4d}\textsf{this}$ $\color{#fec07c}\textsf{to}$ $\color{#fec07c}\textsf{read}$ $\color{#fec07c}\textsf{about}$ $\color{#c94a4d}\textsf{me}$ $\color{#fec07c}\textsf{!!}$
 </summary>
 

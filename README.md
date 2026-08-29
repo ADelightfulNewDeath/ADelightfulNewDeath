@@ -26,12 +26,6 @@
 ⏔⏔⏔⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⏔⏔⏔
 </p>
 
-<br>
-
-<div align="center">
-  <img src="https://i.pinimg.com/1200x/de/c1/3b/dec13b2a30d0d697ce40e7b986f627bb.jpg" width="250"/>
-</div>
-
 
 </td>
 

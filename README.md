@@ -71,7 +71,7 @@ $\color{#fec07c}\textsf{Feel free}$
 $\color{#fec07c}\textsf{to visit my}$ <a href="https://imperialenigma.atabook.org">Atabook</a>
 $\color{#fec07c}\textsf{if you have any}$ 
 $\color{#c94a4d}\textsf{question/suggestion}$ 
-$\color{#c94a4d}\textsf{!!}$
+$\color{#fec07c}\textsf{!!}$
 </details>
 
 </div>

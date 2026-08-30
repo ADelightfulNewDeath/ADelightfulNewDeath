@@ -22,7 +22,6 @@
 
 <br><br>
 
-
 <div align="center">
 <img src="https://github.com/ADelightfulNewDeath/Project/blob/main/Kho%CC%82ng%20Co%CC%81%20Tie%CC%82u%20%C4%90e%CC%82%CC%80227_20260830010849.png?raw=true"/>
 </div>

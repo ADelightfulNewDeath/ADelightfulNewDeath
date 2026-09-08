@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="465" viewBox="0 0 900 465">
+  
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#565a55"></stop>
+      <stop offset="48%" stop-color="#f5f7e9"></stop>
+      <stop offset="100%" stop-color="#848484"></stop>
+    </linearGradient>
+  </defs>
+
+  <text x="450" y="45" text-anchor="middle" font-family="Arial,sans-serif" font-size="32" font-weight="700" fill="url(#g)">✧ 𝟒𝐁𝟎𝐔𝐓 𝐌𝟑!1!1 ✧</text>

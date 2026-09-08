@@ -2,10 +2,14 @@
   
   <defs>
     <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#565a55"></stop>
-      <stop offset="48%" stop-color="#f5f7e9"></stop>
+      <stop offset="0%" stop-color="#565A55"></stop>
+      <stop offset="48%" stop-color="#F5F7E9"></stop>
       <stop offset="100%" stop-color="#848484"></stop>
     </linearGradient>
   </defs>
 
-  <text x="450" y="45" text-anchor="middle" font-family="Arial,sans-serif" font-size="32" font-weight="700" fill="url(#g)">✧ 𝟒𝐁𝟎𝐔𝐓 𝐌𝟑!1!1 ✧</text>
+  <text x="450" y="45" text-anchor="middle" font-family="Arial,sans-serif" font-size="32" font-weight="700" fill="url(#g)">✧ 𝑨𝒃𝒐𝒖𝒕 𝒎𝒆 𑣲𝄞</text>
+  <text x="450" y="92" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-style="italic" fill="#565A55">𝑰'𝒎 𝒂𝒏 𝒊𝒏𝒕𝒓𝒐𝒗𝒆𝒓𝒕</text>
+
+<rect x="245" y="445" width="410" height="2" rx="1" fill="url(#g)" opacity=".8"></rect>
+</svg>

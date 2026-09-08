@@ -1,5 +1,11 @@
 <div align="center">
 
+<p align="center">
+  <a href="https://open.spotify.com/track/64SL9JlYfvhsmjdOkiWjQG?si=7d0071b5b3304682">
+    <img src="https://img.shields.io/badge/%E2%99%AB_Won't_you_hear_my_Symphony%3F-Key_After_Key?style=for-the-badge&logo=spotify&logoColor=white&logoSize=auto&color=grey&cacheSeconds=3600"/>
+  </a>
+</p>
+
 <br>
 
 <img src="https://static.wikitide.net/nullscapewiki/7/77/Cadence_idle_patch_5.gif" width="450"/>

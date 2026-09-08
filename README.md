@@ -27,7 +27,7 @@
 
 <br>
 
-<img src="https://i.postimg.cc/65xcct7Q/IMG_3869.png"/><img src="https://i.postimg.cc/65xcct7Q/IMG_3869.png"/><img src="https://i.postimg.cc/65xcct7Q/IMG_3869.png"/>
+<img src="https://i.postimg.cc/65xcct7Q/IMG_3869.png"/><img src="https://i.postimg.cc/65xcct7Q/IMG_3869.png"/>
 
 <br>
 

@@ -18,7 +18,7 @@
 
 <table>
   <td width="650" align="center">
-    ~~introduction will be here~~
+    SORRY THIS IS STILL A WIP
   </td>
   <td width="280" align="center">
     <img src="https://static.wikitide.net/nullscapewiki/b/b2/CadenceViolinInstrument.png"/>
@@ -37,7 +37,7 @@
   </td>
   
   <td width="650" align="center">
-    ~notes will be here~
+    SORRY THIS IS STILL A WIP
   </td>
 </table>
 

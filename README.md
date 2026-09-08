@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://open.spotify.com/track/64SL9JlYfvhsmjdOkiWjQG?si=7d0071b5b3304682">
-    <img src="https://img.shields.io/badge/%E2%99%AB_Won't_you_hear_my_Symphony%3F-Key_After_Key?style=for-the-badge&logo=spotify&logoColor=white&logoSize=auto&color=grey&cacheSeconds=3600"/>
+    <img src="https://img.shields.io/badge/%F0%9D%93%A6%F0%9D%93%9E%F0%9D%93%9D'%F0%9D%93%A3_%F0%9D%93%A8%F0%9D%93%9E%F0%9D%93%A4_%F0%9D%93%97%F0%9D%93%94%F0%9D%93%90%F0%9D%93%A1_%F0%9D%93%9C%F0%9D%93%A8_%F0%9D%93%A2%F0%9D%93%A8%F0%9D%93%9C%F0%9D%93%9F%F0%9D%93%97%F0%9D%93%9E%F0%9D%93%9D%F0%9D%93%A8%3F-Key_After_Key?style=for-the-badge&logo=spotify&logoColor=white&logoSize=auto&color=grey&cacheSeconds=3600"/>
   </a>
 </p>
 

@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="150" viewBox="0 0 900 150">
+
+  <defs>
+  <linearGradient id="blood" x1="0%" y1="0%" x2="100%" y2="0%">  
+    <stop offset="0%">
+      <animate 
+        attributeName="stop-color" 
+        values="#701414;#DB3E3E;#E5DCB7;#7EA366;#16330D;#701414" 
+        dur="5s" 
+        repeatCount="indefinite"/>
+    </stop>
+    <stop offset="25%"> 
+      <animate 
+        attributeName="stop-color" 
+        values="#DB3E3E;#E5DCB7;#7EA366;#16330D;#701414;#DB3E3E" 
+        dur="5s" 
+        repeatCount="indefinite"/>
+    </stop>
+    <stop offset="50%"> 
+      <animate
+        attributeName="stop-color" 
+        values="#E5DCB7;#7EA366;#16330D;#701414;#DB3E3E;#E5DCB7"
+        dur="5s" 
+        repeatCount="indefinite"/> 
+    </stop>
+    <stop offset="75%"> 
+      <animate
+        attributeName="stop-color" 
+        values="#7EA366;#16330D;#701414;#DB3E3E;#E5DCB7;#7EA366"
+        dur="5s" 
+        repeatCount="indefinite"/> 
+    </stop>
+      <stop offset="100%"> 
+      <animate
+        attributeName="stop-color" 
+        values="#16330D;#701414;#DB3E3E;#E5DCB7;#7EA366;#16330D"
+        dur="5s" 
+        repeatCount="indefinite"/> 
+    </stop>
+      
+    </linearGradient> 
+      
+    <!-- Glow --> 
+    <filter id="glow"> 
+      <feGaussianBlur
+        stdDeviation="3" 
+        result="blur"/>
+<feMerge> 
+  <feMergeNode in="blur"/>
+  <feMergeNode in="SourceGraphic"/> 
+</feMerge> 
+    </filter>
+  </defs>
+ 
+  <!-- Text -->
+  <text x="450"
+    y="95" 
+    text-anchor="middle" 
+    font-family="Arial, sans-serif"
+    font-size="52" 
+    font-weight="bold" 
+    fill="url(#blood)"
+    filter="url(#glow)">
+   ༺✝︎༻FREE S-ATA!!!༺✝︎༻
+
+  </text>
+  
+</svg>

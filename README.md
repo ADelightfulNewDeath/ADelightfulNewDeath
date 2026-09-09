@@ -18,7 +18,8 @@
 
 <table>
   <td width="650" align="center">
-    SORRY THIS IS STILL A WIP
+    <p align="center">
+      <img src=
   </td>
   <td width="280" align="center">
     <img src="https://static.wikitide.net/nullscapewiki/b/b2/CadenceViolinInstrument.png"/>

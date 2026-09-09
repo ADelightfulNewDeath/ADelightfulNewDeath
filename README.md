@@ -19,7 +19,8 @@
 <table>
   <td width="650" align="center">
     <p align="center">
-      <img src=
+      <img src="/.about.svg" width="900">
+    </p>
   </td>
   <td width="280" align="center">
     <img src="https://static.wikitide.net/nullscapewiki/b/b2/CadenceViolinInstrument.png"/>

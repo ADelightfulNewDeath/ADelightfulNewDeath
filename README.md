@@ -59,4 +59,12 @@
 
 <br><br>
 
+<img src="https://media.discordapp.net/attachments/1198498485834612909/1546994382836863087/IMG_5329.png?ex=6aa1ce4a&is=6aa07cca&hm=65f2b341d7c440e82ddaa871acc02301d79856b5c642c2647a8acbe5b8891987&=&format=webp&quality=lossless" width="70%">
+
+Me when Cadence /j
+
+<br><br>
+
 ![](https://komarev.com/ghpvc/?username=ADelightfulNewDeath&color=848484&style=for-the-badge&label=INSTRUMENTS)
+
+</div>

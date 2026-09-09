@@ -47,7 +47,9 @@
   </td>
   
   <td width="650" align="center">
-    SORRY THIS IS STILL A WIP
+    <p align="center">
+      <img src="./fandoms.svg" width="900">
+    </p>
   </td>
 </table>
 

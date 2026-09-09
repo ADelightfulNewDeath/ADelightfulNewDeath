@@ -19,7 +19,7 @@
 <table>
   <td width="650" align="center">
     <p align="center">
-      <img src="/.about.svg" width="900">
+      <img src="./about.svg" width="900">
     </p>
   </td>
   <td width="280" align="center">

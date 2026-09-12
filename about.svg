@@ -1,5 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="465" viewBox="0 0 900 465">
-  
   <defs>
     <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#565A55"></stop>
@@ -8,15 +7,39 @@
     </linearGradient>
   </defs>
 
-  <text x="450" y="55" text-anchor="middle" font-family="Arial,sans-serif" font-size="32" font-weight="700" fill="url(#g)">͙͘͡★ 𝑨𝒃𝒐𝒖𝒕 𝒎𝒆 𑣲𝄞</text>
-  <text x="450" y="125" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-style="italic" fill="#565A55">𑣲⋆ 𝑰'𝒎 𝒂𝒏 𝒊𝒏𝒕𝒓𝒐𝒗𝒆𝒓𝒕 𝒔𝒐 𝑰 𝒑𝒓𝒆𝒇𝒆𝒓 𝒘𝒉𝒊𝒔𝒑𝒆𝒓𝒊𝒏𝒈 𝒎𝒐𝒓𝒆. T-T</text>
-  <text x="450" y="165" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-style="italic" fill="#F5F7E9">𑣲⋆ 𝑰 𝒎𝒐𝒔𝒕𝒍𝒚 𝒔𝒕𝒂𝒚 𝒊𝒏 𝒔𝒂𝒇𝒆 𝑽𝒊𝒆𝒕, 𝒔𝒐𝒎𝒆𝒕𝒊𝒎𝒆𝒔 𝒔𝒂𝒇𝒆 𝒔𝒆𝒓𝒗𝒆𝒓.</text>
-  <text x="450" y="205" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-style="italic" fill="#565A55">𑣲⋆ 𝑰'𝒎 𝒗𝒆𝒓𝒚 𝒒𝒖𝒊𝒆𝒕 𝒖𝒏𝒍𝒆𝒔𝒔 𝒖 𝒔𝒕𝒂𝒓𝒕 𝒕𝒉𝒆 𝒄𝒐𝒏𝒗𝒐 𝒇𝒊𝒓𝒔𝒕.</text>
-  <text x="450" y="245" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-style="italic" fill="#F5F7E9">𑣲⋆ 𝑭𝒆𝒆𝒍 𝒇𝒓𝒆𝒆 𝒕𝒐 𝒄 + 𝒉 𝒑𝒍𝒔 .ᐟ.ᐟ 𝑰 𝒘𝒐𝒏'𝒕 𝒃𝒊𝒕𝒆 𝒕𝒓𝒖𝒔𝒕.</text>
-  
-  <text x="450" y="295" text-anchor="middle" font-family="Arial,sans-serif" font-size="32" font-weight="700" fill="url(#g)">₊˚ ✧ ━━━━⊱⋆⊰━━━━ ✧ ₊˚</text>
+  <text x="450" y="55" text-anchor="middle" font-family="Arial,sans-serif" font-size="32" font-weight="700" fill="url(#g)">
+    ͙͘͡★ 𝘼𝙗𝙤𝙪𝙩 𝙢𝙚 𑣲𝄞
+  </text>
 
-  <text x="450" y="350" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-style="italic" fill="#565A55">𑣲⋆ 𝑫𝒐 𝑵𝑶𝑻 𝒄𝒐𝒑𝒚 𝒏𝒐𝒓 𝒕𝒂𝒌𝒆 𝒊𝒏𝒔𝒑𝒐 𝒘/𝒐 𝒑𝒆𝒓𝒎𝒊𝒔𝒔𝒊𝒐𝒏 .ᐟ.ᐟ</text>
-  <text x="450" y="390" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-style="italic" fill="#F5F7E9">𑣲⋆ 𝑨𝒍𝒕𝒉𝒐𝒖𝒈𝒉 𝑰'𝒎 𝟏𝟗, 𝑰'𝒎 𝒗𝒆𝒓𝒚 𝒇𝒓𝒊𝒆𝒏𝒅𝒍𝒚 𝒕𝒐 𝒕𝒂𝒍𝒌 𝒕𝒐, 𝒏𝒐 𝒘𝒐𝒓𝒓𝒊𝒆𝒔 (˶˃ ᵕ ˂˶)</text>
-  <text x="450" y="430" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-style="italic" fill="#565A55">𑣲⋆ 𝑯𝒂𝒗𝒆 𝒂𝒏𝒚 𝒒𝒖𝒆𝒔𝒕𝒊𝒐𝒏/𝒓𝒆𝒒𝒖𝒆𝒔𝒕 .ᐣ 𝑽𝒊𝒔𝒊𝒕 𝒎𝒚 𝑨𝒕𝒂𝒃𝒐𝒐𝒌 .ᐟ.ᐟ</text>
+  <text x="450" y="125" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-style="italic" fill="#565A55">
+    𑣲⋆ 𝙄'𝙢 𝙖𝙣 𝙞𝙣𝙩𝙧𝙤𝙫𝙚𝙧𝙩 𝙨𝙤 𝙄 𝙥𝙧𝙚𝙛𝙚𝙧 𝙬𝙝𝙞𝙨𝙥𝙚𝙧𝙞𝙣𝙜 𝙢𝙤𝙧𝙚. 𝙏-𝙏
+  </text>
+
+  <text x="450" y="165" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-style="italic" fill="#F5F7E9">
+    𑣲⋆ 𝙄 𝙢𝙤𝙨𝙩𝙡𝙮 𝙨𝙩𝙖𝙮 𝙞𝙣 𝙨𝙖𝙛𝙚 𝙑𝙞𝙚𝙩, 𝙨𝙤𝙢𝙚𝙩𝙞𝙢𝙚𝙨 𝙨𝙖𝙛𝙚 𝙨𝙚𝙧𝙫𝙚𝙧.
+  </text>
+
+  <text x="450" y="205" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-style="italic" fill="#565A55">
+    𑣲⋆ 𝙄'𝙢 𝙫𝙚𝙧𝙮 𝙦𝙪𝙞𝙚𝙩 𝙪𝙣𝙡𝙚𝙨𝙨 𝙪 𝙨𝙩𝙖𝙧𝙩 𝙩𝙝𝙚 𝙘𝙤𝙣𝙫𝙤 𝙛𝙞𝙧𝙨𝙩.
+  </text>
+
+  <text x="450" y="245" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-style="italic" fill="#F5F7E9">
+    𑣲⋆ 𝙁𝙚𝙚𝙡 𝙛𝙧𝙚𝙚 𝙩𝙤 𝙘 + 𝙝 𝙥𝙡𝙨 .ᐟ.ᐟ 𝙄 𝙬𝙤𝙣'𝙩 𝙗𝙞𝙩𝙚 𝙩𝙧𝙪𝙨𝙩.
+  </text>
+
+  <text x="450" y="295" text-anchor="middle" font-family="Arial,sans-serif" font-size="32" font-weight="700" fill="url(#g)">
+    ₊˚ ✧ ━━━━⊱⋆⊰━━━━ ✧ ₊˚
+  </text>
+
+  <text x="450" y="350" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-style="italic" fill="#565A55">
+    𑣲⋆ 𝘿𝙤 𝙉𝙊𝙏 𝙘𝙤𝙥𝙮 𝙣𝙤𝙧 𝙩𝙖𝙠𝙚 𝙞𝙣𝙨𝙥𝙤 𝙬/𝙤 𝙥𝙚𝙧𝙢𝙞𝙨𝙨𝙞𝙤𝙣 .ᐟ.ᐟ
+  </text>
+
+  <text x="450" y="390" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-style="italic" fill="#F5F7E9">
+    𑣲⋆ 𝘼𝙡𝙩𝙝𝙤𝙪𝙜𝙝 𝙄'𝙢 19, 𝙄'𝙢 𝙫𝙚𝙧𝙮 𝙛𝙧𝙞𝙚𝙣𝙙𝙡𝙮 𝙩𝙤 𝙩𝙖𝙡𝙠 𝙩𝙤, 𝙣𝙤 𝙬𝙤𝙧𝙧𝙞𝙚𝙨 (˶˃ ᵕ ˂˶)
+  </text>
+
+  <text x="450" y="430" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-style="italic" fill="#565A55">
+    𑣲⋆ 𝙃𝙖𝙫𝙚 𝙖𝙣𝙮 𝙦𝙪𝙚𝙨𝙩𝙞𝙤𝙣/𝙧𝙚𝙦𝙪𝙚𝙨𝙩 .ᐣ 𝙑𝙞𝙨𝙞𝙩 𝙢𝙮 𝘼𝙩𝙖𝙗𝙤𝙤𝙠 .ᐟ.ᐟ
+  </text>
 </svg>

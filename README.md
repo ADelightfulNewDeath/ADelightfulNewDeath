@@ -59,9 +59,9 @@
 
 <br><br>
 
-<img src="https://media.discordapp.net/attachments/1198498485834612909/1546994382836863087/IMG_5329.png?ex=6aa1ce4a&is=6aa07cca&hm=65f2b341d7c440e82ddaa871acc02301d79856b5c642c2647a8acbe5b8891987&=&format=webp&quality=lossless" width="70%">
+<img src="https://media.discordapp.net/attachments/1198498485834612909/1552920516082409572/Screenshot_2026-09-20_111923.png?ex=6ab75d6e&is=6ab60bee&hm=7ebfdc00f428f175ea2aadf6b960688ca3a605c6eeaa8317cbc53c4eff916b3a&=&format=webp&quality=lossless"/>
 
-Me when Cadence /j (artwork not mine!!)
+My gang!!! I love you all so much :(
 
 <br><br>
 
